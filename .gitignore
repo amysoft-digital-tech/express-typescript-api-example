@@ -1,0 +1,7 @@
+/db
+/dist
+/keys
+/node_modules
+/package-lock.json
+/temp
+/tsconfig.tsbuildinfo
